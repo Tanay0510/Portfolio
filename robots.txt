@@ -2,3 +2,4 @@
 User-agent: *
 Disallow:
 
+Sitemap: http://www.tanaybhardwaj.com/sitemap.xml
