@@ -3,3 +3,4 @@ User-agent: *
 Disallow:
 
 Sitemap: http://www.tanaybhardwaj.com/sitemap.xml
+Sitemap: https://www.tanaybhardwaj.com/sitemap.xml
